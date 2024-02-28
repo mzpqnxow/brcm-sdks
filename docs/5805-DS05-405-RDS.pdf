@@ -1,0 +1,20 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: docs-and-downloads/cBroadcom/5805-DS05-405-RDS.pdf</li>
+<li>RequestId: A5YAJKJJM4K6SDNS</li>
+<li>HostId: fHerjPlHvq2LBAnnZI9fTCHC3vpmsMfprV5pHeac1XR0DzoXUfUpaSKz0tFGiw/rg9yB/i6YyzE=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
